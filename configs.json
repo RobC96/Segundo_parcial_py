@@ -1,0 +1,244 @@
+{
+    "especialidades": {
+        "especialidad_1": "Odontologia",
+        "especialidad_2": "Medico Clinico",
+        "especialidad_3": "Psicologia",
+        "especialidad_4": "Traumatologia"
+    },
+    "obras_sociales_validas": {
+        "obra_social_1": "Swiss Medical",
+        "obra_social_2": "Apres",
+        "obra_social_3": "PAMI",
+        "obra_social_4": "Particular"
+    },
+    "lista_pacientes": [
+        {
+            "id": 1,
+            "nombre": "María",
+            "apellido": "González",
+            "dni": "12345678",
+            "edad": 35,
+            "fecha_de_registro": "15-05-2023",
+            "obra_social": "Swiss Medical"
+        },
+        {
+            "id": 2,
+            "nombre": "Juan",
+            "apellido": "Martínez",
+            "dni": "23456789",
+            "edad": 45,
+            "fecha_de_registro": "20-06-2023",
+            "obra_social": "PAMI"
+        },
+        {
+            "id": 3,
+            "nombre": "Lucía",
+            "apellido": "López",
+            "dni": "34567890",
+            "edad": 28,
+            "fecha_de_registro": "10-07-2023",
+            "obra_social": "Particular"
+        },
+        {
+            "id": 4,
+            "nombre": "Carlos",
+            "apellido": "Sánchez",
+            "dni": "45678901",
+            "edad": 50,
+            "fecha_de_registro": "05-08-2023",
+            "obra_social": "Apres"
+        },
+        {
+            "id": 5,
+            "nombre": "Ana",
+            "apellido": "Rodríguez",
+            "dni": "56789012",
+            "edad": 42,
+            "fecha_de_registro": "12-09-2023",
+            "obra_social": "Swiss Medical"
+        },
+        {
+            "id": 6,
+            "nombre": "Pedro",
+            "apellido": "Gómez",
+            "dni": "67890123",
+            "edad": 55,
+            "fecha_de_registro": "18-10-2023",
+            "obra_social": "PAMI"
+        },
+        {
+            "id": 7,
+            "nombre": "Laura",
+            "apellido": "Fernández",
+            "dni": "78901234",
+            "edad": 30,
+            "fecha_de_registro": "25-11-2023",
+            "obra_social": "Particular"
+        },
+        {
+            "id": 8,
+            "nombre": "Javier",
+            "apellido": "López",
+            "dni": "89012345",
+            "edad": 48,
+            "fecha_de_registro": "30-12-2023",
+            "obra_social": "Apres"
+        },
+        {
+            "id": 9,
+            "nombre": "Marina",
+            "apellido": "Martínez",
+            "dni": "90123456",
+            "edad": 39,
+            "fecha_de_registro": "05-01-2024",
+            "obra_social": "Swiss Medical"
+        },
+        {
+            "id": 10,
+            "nombre": "Martín",
+            "apellido": "García",
+            "dni": "01234567",
+            "edad": 36,
+            "fecha_de_registro": "10-02-2024",
+            "obra_social": "PAMI"
+        },
+        {
+            "id": 11,
+            "nombre": "Victoria",
+            "apellido": "Pérez",
+            "dni": "11234567",
+            "edad": 27,
+            "fecha_de_registro": "15-03-2024",
+            "obra_social": "Particular"
+        },
+        {
+            "id": 12,
+            "nombre": "Gabriel",
+            "apellido": "Sosa",
+            "dni": "21234567",
+            "edad": 44,
+            "fecha_de_registro": "20-04-2024",
+            "obra_social": "Apres"
+        },
+        {
+            "id": 13,
+            "nombre": "Valentina",
+            "apellido": "Rojas",
+            "dni": "31234567",
+            "edad": 32,
+            "fecha_de_registro": "25-05-2024",
+            "obra_social": "Swiss Medical"
+        },
+        {
+            "id": 14,
+            "nombre": "Emilio",
+            "apellido": "Fuentes",
+            "dni": "41234567",
+            "edad": 49,
+            "fecha_de_registro": "30-06-2024",
+            "obra_social": "PAMI"
+        },
+        {
+            "id": 15,
+            "nombre": "Luisa",
+            "apellido": "Morales",
+            "dni": "51234567",
+            "edad": 31,
+            "fecha_de_registro": "05-07-2024",
+            "obra_social": "Particular"
+        },
+        {
+            "id": 16,
+            "nombre": "Diego",
+            "apellido": "Suárez",
+            "dni": "61234567",
+            "edad": 52,
+            "fecha_de_registro": "10-08-2024",
+            "obra_social": "Apres"
+        },
+        {
+            "id": 17,
+            "nombre": "Camila",
+            "apellido": "Luna",
+            "dni": "71234567",
+            "edad": 29,
+            "fecha_de_registro": "15-09-2024",
+            "obra_social": "Swiss Medical"
+        },
+        {
+            "id": 18,
+            "nombre": "Facundo",
+            "apellido": "Giménez",
+            "dni": "81234567",
+            "edad": 46,
+            "fecha_de_registro": "20-10-2024",
+            "obra_social": "PAMI"
+        },
+        {
+            "id": 19,
+            "nombre": "Sol",
+            "apellido": "Castro",
+            "dni": "91234567",
+            "edad": 33,
+            "fecha_de_registro": "25-11-2024",
+            "obra_social": "Particular"
+        },
+        {
+            "id": 20,
+            "nombre": "Matías",
+            "apellido": "Ríos",
+            "dni": "01234568",
+            "edad": 47,
+            "fecha_de_registro": "30-12-2024",
+            "obra_social": "Apres"
+        },
+        {
+            "id": 21,
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "dni": "12123432",
+            "edad": 50,
+            "fecha_de_registro": "12-05-2024",
+            "obra_social": "Swiss Medical"
+        },
+        {
+            "id": 22,
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "dni": "24765894",
+            "edad": 80,
+            "fecha_de_registro": "12-05-2024",
+            "obra_social": "PAMI"
+        }
+    ],
+    "lista_turnos": [
+        {
+            "id": 1,
+            "id_paciente": 21,
+            "especialidad": "Medico Clinico",
+            "monto_a_pagar": 2160.0,
+            "estado_del_turno": "Pagado"
+        },
+        {
+            "id": 2,
+            "id_paciente": 15,
+            "especialidad": "Odontologia",
+            "monto_a_pagar": 4200.0,
+            "estado_del_turno": "Pagado"
+        },
+        {
+            "id": 3,
+            "id_paciente": 22,
+            "especialidad": "Psicologia",
+            "monto_a_pagar": 1552.0,
+            "estado_del_turno": "Pagado"
+        },
+        {
+            "id": 4,
+            "id_paciente": 8,
+            "especialidad": "Traumatologia",
+            "monto_a_pagar": 2910.0,
+            "estado_del_turno": "Pagado"
+        }
+    ]
+}
